@@ -1,0 +1,23 @@
+Dot Dot Bot
+A chatbot design methodology
+August 2018 - May 2019
+SAP
+Service/Product Design
+
+Brief
+- Completed as a "Lighthouse project" - a project driven by individual interest rather than customer demand
+- Prompted by growing demand for chat-based projects and identification of challenges for designers
+- Completed with a team; I joined mid-way to drive completion and lead UX design and strategy
+
+Challenge 1: Refining our value proposition
+
+When I joined this project, the 3-person team had been working for several months becoming experts in the landscape of chatbot design and development. However, in the process, they had lost the ability to speak from an objective perspective. I stepped in to help them articulate their expertise and choose a direction of maximum value. 
+
+![Chatbot Tools Analysis](Dropbox/apps/blot/posts/chatbot_tools_chart.png)
+*Analysis of existing chatbot-focused tools*
+
+(Caption) Dot Dot Bot value propositions
+ 
+ Challenge 2: Developing a unique, universal method for chatbot design
+ 
+ Taking cues from Google sprint, IDEO methods, and our own SAP tools Mosaic, we set out to design a solution for teams with or without design expertise. We envisioned a method that is versatile, step-by-step, and easy to execute. With that in mind, we built upon our design-led development process to meet the unique challenges of natural language processing.  
